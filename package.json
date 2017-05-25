@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.16.1",
+    "cheerio": "^0.22.0",
     "open-html": "^0.0.1",
     "qs": "^6.4.0",
     "yarn": "^0.24.5"

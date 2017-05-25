@@ -1,0 +1,17 @@
+{
+  "name": "transit-pwa",
+  "version": "0.0.1",
+  "description": "a progressive web app transit time viewer",
+  "main": "transit.js",
+  "scripts": {
+    "start": "node transit.js"
+  },
+  "author": "Pat Migliaccio <pat@patmigliaccio.com> (https://patmigliaccio.com)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "open-html": "^0.0.1",
+    "qs": "^6.4.0",
+    "yarn": "^0.24.5"
+  }
+}
